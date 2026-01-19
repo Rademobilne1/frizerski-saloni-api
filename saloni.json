@@ -1,0 +1,25 @@
+{
+  "salon": "Salon Elegance",
+  "frizeri": [
+    {
+      "id": 1,
+      "ime": "Ana",
+      "tip": "Ženski frizer"
+    },
+    {
+      "id": 2,
+      "ime": "Marko",
+      "tip": "Muški frizer"
+    },
+    {
+      "id": 3,
+      "ime": "Jelena",
+      "tip": "Ženski frizer"
+    },
+    {
+      "id": 4,
+      "ime": "Nikola",
+      "tip": "Muški frizer"
+    }
+  ]
+}
