@@ -1,25 +1,72 @@
-{
-  "salon": "Salon Elegance",
-  "frizeri": [
-    {
-      "id": 1,
-      "ime": "Ana",
-      "tip": "Ženski frizer"
-    },
-    {
-      "id": 2,
-      "ime": "Marko",
-      "tip": "Muški frizer"
-    },
-    {
-      "id": 3,
-      "ime": "Jelena",
-      "tip": "Ženski frizer"
-    },
-    {
-      "id": 4,
-      "ime": "Nikola",
-      "tip": "Muški frizer"
-    }
-  ]
-}
+[
+  {
+    "salon": "Salon Elegance",
+    "frizeri": [
+      {
+        "id": 1,
+        "ime": "Ana",
+        "tip": "Ženski frizer"
+      },
+      {
+        "id": 2,
+        "ime": "Marko",
+        "tip": "Muški frizer"
+      },
+      {
+        "id": 3,
+        "ime": "Jelena",
+        "tip": "Ženski frizer"
+      },
+      {
+        "id": 4,
+        "ime": "Nikola",
+        "tip": "Muški frizer"
+      }
+    ]
+  },
+  {
+    "salon": "Draskic",
+    "frizeri": [
+      {
+        "id": 5,
+        "ime": "Milica",
+        "tip": "Ženski frizer"
+      },
+      {
+        "id": 6,
+        "ime": "Stefan",
+        "tip": "Muški frizer"
+      }
+    ]
+  },
+  {
+    "salon": "Biberce",
+    "frizeri": [
+      {
+        "id": 7,
+        "ime": "Tamara",
+        "tip": "Ženski frizer"
+      },
+      {
+        "id": 8,
+        "ime": "Luka",
+        "tip": "Muški frizer"
+      }
+    ]
+  },
+  {
+    "salon": "Vogue",
+    "frizeri": [
+      {
+        "id": 9,
+        "ime": "Sara",
+        "tip": "Ženski frizer"
+      },
+      {
+        "id": 10,
+        "ime": "Petar",
+        "tip": "Muški frizer"
+      }
+    ]
+  }
+]
